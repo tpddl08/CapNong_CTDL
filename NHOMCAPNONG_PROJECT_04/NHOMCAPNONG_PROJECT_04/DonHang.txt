@@ -1,0 +1,113 @@
+Thong tin don hang:
+Ten khach hang: Nguyen Van An
+Dia chi: Tinh Thai Nguyen
+So dien thoai: 0912345678
+Ngay dat hang: 10/10/2025
+Tong tien: 500000 VND
+Danh sach hang da dat:
+ - Ma hang: 0013, So luong: 2
+----------------------------------------
+Thong tin don hang:
+Ten khach hang: Le Thi Binh
+Dia chi: TP Hai Phong
+So dien thoai: 0987123456
+Ngay dat hang: 11/10/2025
+Tong tien: 930000 VND
+Danh sach hang da dat:
+ - Ma hang: 0015, So luong: 1
+ - Ma hang: 0017, So luong: 1
+----------------------------------------
+Thong tin don hang:
+Ten khach hang: Tran Hoai Nam
+Dia chi: Tinh Gia Lai
+So dien thoai: 0369852147
+Ngay dat hang: 12/10/2025
+Tong tien: 12500000 VND
+Danh sach hang da dat:
+ - Ma hang: 0028, So luong: 1
+----------------------------------------
+Thong tin don hang:
+Ten khach hang: Hoang Thi Cam
+Dia chi: TP Hue
+So dien thoai: 0909090909
+Ngay dat hang: 13/10/2025
+Tong tien: 270000 VND
+Danh sach hang da dat:
+ - Ma hang: 0019, So luong: 10
+ - Ma hang: 0020, So luong: 2
+----------------------------------------
+Thong tin don hang:
+Ten khach hang: Vo Thanh Tung
+Dia chi: Tinh Tay Ninh
+So dien thoai: 0938475612
+Ngay dat hang: 14/10/2025
+Tong tien: 1800000 VND
+Danh sach hang da dat:
+ - Ma hang: 0025, So luong: 1
+----------------------------------------
+Thong tin don hang:
+Ten khach hang: Do Ngoc Diep
+Dia chi: Tinh Ha Tinh
+So dien thoai: 0868123789
+Ngay dat hang: 15/10/2025
+Tong tien: 1400000 VND
+Danh sach hang da dat:
+ - Ma hang: 0030, So luong: 1
+ - Ma hang: 0016, So luong: 1
+----------------------------------------
+Thong tin don hang:
+Ten khach hang: Dang Van Lam
+Dia chi: Tinh Phu Tho
+So dien thoai: 0978543210
+Ngay dat hang: 16/10/2025
+Tong tien: 840000 VND
+Danh sach hang da dat:
+ - Ma hang: 0023, So luong: 3
+----------------------------------------
+Thong tin don hang:
+Ten khach hang: Bui Thi Xuan
+Dia chi: Tinh Son La
+So dien thoai: 0398765432
+Ngay dat hang: 17/10/2025
+Tong tien: 1200000 VND
+Danh sach hang da dat:
+ - Ma hang: 0014, So luong: 1
+----------------------------------------
+Thong tin don hang:
+Ten khach hang: Luong Van Can
+Dia chi: Tinh Tuyen Quang
+So dien thoai: 0965432109
+Ngay dat hang: 18/10/2025
+Tong tien: 760000 VND
+Danh sach hang da dat:
+ - Ma hang: 0026, So luong: 2
+----------------------------------------
+Thong tin don hang:
+Ten khach hang: Phan Thi My
+Dia chi: Tinh Vinh Long
+So dien thoai: 0923456789
+Ngay dat hang: 19/10/2025
+Tong tien: 1750000 VND
+Danh sach hang da dat:
+ - Ma hang: 0031, So luong: 1
+ - Ma hang: 0032, So luong: 1
+----------------------------------------
+Thong tin don hang:
+Ten khach hang: ss
+Dia chi: Tinh Tay Ninh
+So dien thoai: 0123456789
+Ngay dat hang: 05/11/2025
+Tong tien: 250000 VND
+Danh sach hang da dat:
+ - Ma hang: 0001, So luong: 1
+----------------------------------------
+
+Thong tin don hang:
+Ten khach hang: ss
+Dia chi: TP Ho Chi Minh
+So dien thoai: 0123456789
+Ngay dat hang: 19/11/2025
+Tong tien: 19500000 VND
+Danh sach hang da dat:
+ - Ma hang: 0020, So luong: 30
+----------------------------------------
